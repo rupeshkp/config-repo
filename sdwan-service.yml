@@ -1,1 +1,1 @@
-sdwan.middleware.url: "org.hibernate.dialect.PostgreSQLDialect"
+sdwan.middleware.url: "abc.com"
